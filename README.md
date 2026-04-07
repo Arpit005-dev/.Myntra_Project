@@ -65,7 +65,7 @@ myntra-clone/
 
 ---
 
-## See this Website Here
+## See My Clone Website Here
 
 * https://arpit005-dev.github.io/.Myntra_Project/
 
